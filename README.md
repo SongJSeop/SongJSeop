@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**SongJSeop/SongJSeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>
+  
+  ### 💫 &nbsp;소개 &nbsp;💫  
+  송준섭(Junseop Song)  
+  97년 3월 생  
+  서울시립대 통계학과 18학번  
+  개발 시작한 지 얼마 안 된 코린이..  
+    
+  ### 💫&nbsp;공부 중 &nbsp;💫  
+    <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="Dialogflow" src ="https://img.shields.io/badge/Dialogflow-7238BB.svg?&style=for-the-badge&logo=Dialogflow&logoColor=white"/>  
+    
+  ### 🔰 잘 부탁 드립니다 🔰
+</div>
