@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Song Junseop's GitHub
 
-🥹 Junior developer majoring in statistics but preparing for web backend development
+🥹 Junior developer
 
 📕 I'm studying ... <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-green?style=plastic&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/> 
 
